@@ -1,0 +1,26 @@
+body {
+	background-color: #FFFFAA;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+}
+
+input[type="reset"] {
+	color: darkblue;
+}
+
+.left {
+	text-align: left;
+}
+
+nav {
+	display: inline-block;
+	width: 20%;
+}
+
+article {
+	display: inline-block;
+	width: 60%;
+}
