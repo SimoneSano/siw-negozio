@@ -17,7 +17,7 @@
 		</header>
 		<nav>
 			<a href="inserisciProdotto.jsp">
-				Inserisci un nuovo prodotto nel catalogo
+				Inserisci un nuovo prodotto nel catalogo:
 			</a>
 		</nav>
 		<article>
